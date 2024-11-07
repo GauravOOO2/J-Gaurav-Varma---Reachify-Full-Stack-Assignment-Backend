@@ -1,7 +1,7 @@
-fastapi==0.95.0  # FastAPI framework
-uvicorn==0.22.0  # ASGI server for serving FastAPI
-pymongo==4.3.0   # MongoDB driver
-python-jose==3.3.0  # JWT handling
-passlib==1.7.4   # Password hashing
-python-dotenv==0.21.0  # For loading environment variables from .env files
-pydantic==1.10.2  # Data validation and settings management
+fastapi  # FastAPI framework
+uvicorn  # ASGI server for serving FastAPI
+pymongo   # MongoDB driver
+python-jose  # JWT handling
+passlib   # Password hashing
+python-dotenv  # For loading environment variables from .env files
+pydantic # Data validation and settings management
