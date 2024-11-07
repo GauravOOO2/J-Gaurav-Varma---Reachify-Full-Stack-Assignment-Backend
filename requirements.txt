@@ -1,0 +1,1 @@
+fastapi uvicorn pymongo python-jose[cryptography] passlib python-multipart python-dotenv
