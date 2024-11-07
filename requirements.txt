@@ -1,7 +1,9 @@
-fastapi  # FastAPI framework
-uvicorn  # ASGI server for serving FastAPI
-pymongo   # MongoDB driver
-python-jose  # JWT handling
-passlib   # Password hashing
-python-dotenv  # For loading environment variables from .env files
-pydantic # Data validation and settings management
+fastapi
+uvicorn
+pymongo
+python-jose[cryptography]
+passlib
+python-multipart
+python-dotenv
+PyJWT
+bcrypt
