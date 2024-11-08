@@ -80,9 +80,9 @@ The project consists of two main components:
     ```bash
     uvicorn main:app --reload
      ```
-Access the frontend application at `http://localhost:3000`.
+    Access the frontend application at `http://localhost:3000`.
 
-   ****OR
+   OR
 
 3. Pull and Run the Docker Image:
    ```bash
@@ -103,10 +103,10 @@ Access the frontend application at `http://localhost:3000`.
     ```bash
     npm start
      ```
-Access the frontend application at `http://localhost:3000`.
+    Access the frontend application at `http://localhost:3000`.
 
 
-****OR
+    OR
 3. Pull and Run the Docker Image:
    ```bash
    docker pull gaurav254/j-gaurav-varma-reachify-full-stack-assignment:backend
