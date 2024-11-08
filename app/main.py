@@ -20,8 +20,9 @@ app = FastAPI(title="TODO API with Auth")
 # CORS configuration
 origins = [
     "https://j-gaurav-varma-reachify-full-stack-assignment-frontend.vercel.app",
-      "https://j-gaurav-varma-reachify-full-stack-assignment-backend.vercel.app",  # Replace with your actual frontend URL
-    "http://localhost:3000",  # Allow local development
+    "https://j-gaurav-varma-reachify-full-stack-assignment-backend.vercel.app",  # Replace with your actual frontend URL
+    "http://localhost:3000",
+    "https://localhost:3000",  # Allow local development
     # Add other origins if needed
 ]
 
