@@ -109,7 +109,7 @@ The project consists of two main components:
     OR
 3. Pull and Run the Docker Image:
    ```bash
-   docker pull gaurav254/j-gaurav-varma-reachify-full-stack-assignment:backend
+   docker pull gaurav254/j-gaurav-varma-reachify-full-stack-assignment:frontend
    ```
 
 
